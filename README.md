@@ -11,5 +11,7 @@ pip install streamlit
 streamlit run app.py
 ```
 
-Atau klik link berikut ini:
+### Atau klik link berikut ini:
+```
 https://idcamp2023-dmrz.streamlit.app/
+```
