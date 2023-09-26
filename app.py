@@ -17,5 +17,5 @@ image_path = "images/Total Pendapatan Penjualan Perusahaan.png"
 st.image(image_path, caption="Total Pendapatan Penjualan Perusahaan.png", use_column_width=True)
 
 # Gambar 5
-image_path = "Produk dengan Harga Tertinggi dan Terendah.png"
+image_path = "images/Produk dengan Harga Tertinggi dan Terendah.png"
 st.image(image_path, caption="Produk dengan Harga Tertinggi dan Terendah.png", use_column_width=True)
