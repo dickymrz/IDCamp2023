@@ -2,7 +2,7 @@ import streamlit as st
 
 # Gambar 1
 image_path = "images/Top 10 Kota dengan Jumlah Pemesanan Tertinggi.png"
-st.image(image_path, caption="images/Top 10 Kota dengan Jumlah Pemesanan Tertinggi.png", use_column_width=True)
+st.image(image_path, caption="Top 10 Kota dengan Jumlah Pemesanan Tertinggi.png", use_column_width=True)
 
 # Gambar 2
 image_path = "images/Top 10 Kategori Produk dengan Jumlah Ulasan Positif Tertinggi.png"
