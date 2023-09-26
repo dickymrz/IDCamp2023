@@ -8,10 +8,10 @@ st.write("Berikut adalah visualisasi data yang mencakup berbagai aspek Data E-Co
 
 # Gambar 1
 image_path = "images/Top 10 Kota dengan Jumlah Pemesanan Tertinggi.png"
-st.image(image_path, caption="Top 10 Kota dengan Jumlah Pemesanan Tertinggi", use_column_width=True)
+st.image(image_path, caption="Gambar ini menunjukkan daftar 10 kota dengan jumlah pemesanan tertinggi", use_column_width=True)
 
 # Deskripsi Gambar 1
-st.write("Gambar ini menunjukkan daftar 10 kota dengan jumlah pemesanan tertinggi.")
+st.write("Kota yang paling sering melakukan pemesanan produk adalah **rio de janeiro**")
 
 # Gambar 2
 image_path = "images/Top 10 Kategori Produk dengan Jumlah Ulasan Positif Tertinggi.png"
