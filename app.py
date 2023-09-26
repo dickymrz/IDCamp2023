@@ -19,14 +19,3 @@ st.image(image_path, caption="Produk dengan Harga Tertinggi dan Terendah", use_c
 # Gambar 5
 image_path = "images/Total Pendapatan Penjualan Perusahaan.png"
 st.image(image_path, caption="Total Pendapatan Penjualan Perusahaan", use_column_width=True)
-
-# Membagi layar menjadi dua kolom
-left_column, right_column = st.columns(2)
-
-# Tampilkan gambar di kolom kiri
-with left_column:
-    st.image("images/Produk dengan Jumlah Penjualan Tertinggi dan Terendah.png", use_column_width=True)
-
-# Tampilkan gambar di kolom kanan
-with right_column:
-    st.image("images/Produk dengan Harga Tertinggi dan Terendah.png", use_column_width=True)
