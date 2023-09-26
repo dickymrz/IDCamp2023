@@ -1,4 +1,4 @@
 import streamlit as st
 
-![Image Description](upload://86TA7dB3o4z6meIQX3TajkaklNx.jpeg)
-
+image_url = "https://drive.google.com/file/d/19BwOzCsaf4P9lZ-Wuwtj9MXt6YjELk3n/view?usp=drive_link"
+st.image(image_url[0]), width = 800)
