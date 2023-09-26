@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Judul dashboard
-st.title("Dashboard Analysist E-Commerce Public Data")
+st.title("E-Commerce Public Data Analysis Dashboard")
 
 # Gambar 1
 image_path = "images/Top 10 Kota dengan Jumlah Pemesanan Tertinggi.png"
