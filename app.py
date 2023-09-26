@@ -1,5 +1,7 @@
 import streamlit as st
 
-image_url = "https://drive.google.com/drive/folders/1pJFEVDmliwZPfoxTqjdgl7s8y3LNxnDI?hl=id"
-st.image(image_url)
+st.image(
+            "https://drive.google.com/file/d/19BwOzCsaf4P9lZ-Wuwtj9MXt6YjELk3n/view?usp=drive_link",
+            width=400, # Manually Adjust the width of the image as per requirement
+        )
 
