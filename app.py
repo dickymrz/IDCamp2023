@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Judul dashboard
-st.title("Dashboard Analysist Data E-Commerce Public")
+st.title("Dashboard Analysist E-Commerce Public Data")
 
 # Deskripsi
 st.write("Berikut adalah visualisasi data yang mencakup berbagai aspek Data E-Commerce Public.")
