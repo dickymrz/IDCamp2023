@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Dashboard Analysist Data E-Commerce Public")
 
 # Deskripsi
-st.write("Berikut adalah visualisasi data yang mencakup berbagai aspek perusahaan.")
+st.write("Berikut adalah visualisasi data yang mencakup berbagai aspek Data E-Commerce Public.")
 
 # Container untuk gambar dan deskripsi
 with st.beta_container():
